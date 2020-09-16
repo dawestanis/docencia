@@ -24,7 +24,7 @@ En la actualidad imparto los siguientes modulos:
   * [Entornos de Desarrollo](#)
   * [Programación](#)
 * 2º Curso:
-  * [Desarrollo web en entorno_servidor](#)
+  * [Desarrollo web en entorno servidor](#)
 
 * 3º Curso:
 
