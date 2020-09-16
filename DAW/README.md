@@ -1,6 +1,6 @@
 <a href="http://jpexposito.com"><img src="https://github.com/jpexposito/docencia/blob/master/daw.png?raw=true" title="Docencia @jpexposito" alt="DAM @jpexposito"></a>
 
-# Desarrollo de Aplicaciones Multiplataforma
+# Desarrollo de Aplicaciones Web
 
 El Ciclo Formativo de Grado Superior DAW (Desarrollo de Aplicaciones Web), te permitirá trabajar desarrollando,
 implantando, documentando y manteneniendo aplicaciones informáticas web en todas las empresas del sector. Este 
