@@ -1,4 +1,4 @@
-<a href="http://jpexposito.com"><img src="https://github.com/jpexposito/docencia/blob/master/dam.png?raw=true" title="DAM @jpexposito" alt="DAM @jpexposito"></a>
+<a href="http://jpexposito.com"><img src="https://github.com/jpexposito/docencia/blob/master/img/dam.png?raw=true" title="DAM @jpexposito" alt="DAM @jpexposito"></a>
 
 # Desarrollo de Aplicaciones Multiplataforma
 
